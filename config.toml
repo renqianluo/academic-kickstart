@@ -56,7 +56,7 @@ enableGitInfo = false
   organizations = [ { name = "University of Science and Technology of China", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "[gjl]1cun.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "[gjl]big.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "guojunll@mail.ustc.edu.cn"
