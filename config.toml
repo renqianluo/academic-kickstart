@@ -59,7 +59,7 @@ enableGitInfo = false
   avatar = "[gjl]big.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "guojunll AT mail DOT ustc DOT edu DOT cn"
+  email = "guojunll@mail.ustc.edu.cn"
   #address = "No. 443, Huangshan Rd., Shushan Dist., Hefei, Anhui, China"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
