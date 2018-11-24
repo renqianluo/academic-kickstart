@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://sharp-jones-04c094.netlify.com/"
+baseurl = "http://leoguojl.me/"
 
 # Title of your site
 title = "Junliang Guo"
@@ -23,7 +23,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-129733083-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -59,8 +59,8 @@ enableGitInfo = false
   avatar = "[gjl]big.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "guojunll@mail.ustc.edu.cn"
-  #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "guojunll AT mail DOT ustc DOT edu DOT cn"
+  #address = "No. 443, Huangshan Rd., Shushan Dist., Hefei, Anhui, China"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
@@ -200,6 +200,10 @@ enableGitInfo = false
   #  icon_pack = "fab"
   #  link = "https://twitter.com/GeorgeCushen"
 
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/junliang-guo-48b273112/"
 
   [[params.social]]
     icon = "github"
