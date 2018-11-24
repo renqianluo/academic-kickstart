@@ -20,8 +20,8 @@ detailed_list = false
 +++
 
 - Award of Excellence in MSRA Star of Tomorrow Internship Program, 2018
-- SZSE Scholarship (TOP 5%), 2018
-- GDC Scholarship (TOP 20%), 2018
+- Shenzhen Stock Exchange Scholarship (TOP 5%), 2018
+- Global Digital Creations Scholarship (TOP 20%), 2018
 - Excellent Graduation Thesis of USTC (TOP 5%), 2016
 - Outstanding Student Scholarship, Silver (TOP 15%), 2014
 - Outstanding Student Scholarship, Bronze (TOP 30%), 2013
