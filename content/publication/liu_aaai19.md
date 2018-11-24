@@ -1,24 +1,5 @@
 +++
-abstract = "We focus on empirical risk minimization with a composite
-regulariser, which has been widely applied in various ma-
-chine learning tasks to introduce important structural infor-
-mation regarding the problem or data. In general, it is chal-
-lenging to calculate the proximal operator with the composite
-regulariser. Recently, proximal average (PA) which involves a
-feasible proximal operator calculation is proposed to approx-
-imate composite regularisers. Augmented with the prevail-
-ing variance reducing (VR) stochastic methods (e.g. SVRG,
-SAGA), PA based algorithms would achieve a better per-
-formance. However, existing works require a fixed stepsize,
-which needs to be rather small to ensure that the PA approx-
-imation is sufficiently accurate. In the meantime, the smaller
-stepsize would incur many more iterations for convergence.
-In this paper, we propose two fast PA based VR stochas-
-tic methods – APA-SVRG and APA-SAGA. By initializing
-the stepsize with a much larger value and adaptively decreas-
-ing it, both of the proposed methods are proved to enjoy the
-$O(n \log \frac{1}{\epsilon} + m_{0} \frac{1}{\epsilon})$ iteration complexity to achieve the ε- εε
-accurate solutions, where m0 is the initial number of inner iterations and n is the number of samples. Moreover, exper- imental results demonstrate the superiority of the proposed algorithms."
+abstract = "We focus on empirical risk minimization with a composite regulariser, which has been widely applied in various machine learning tasks to introduce important structural information regarding the problem or data. In general, it is challenging to calculate the proximal operator with the composite regulariser. Recently, proximal average (PA) which involves a feasible proximal operator calculation is proposed to approximate composite regularisers. Augmented with the prevailing variance reducing (VR) stochastic methods (e.g. SVRG, SAGA), PA based algorithms would achieve a better performance. However, existing works require a fixed stepsize, which needs to be rather small to ensure that the PA approximation is sufficiently accurate. In the meantime, the smaller stepsize would incur many more iterations for convergence. In this paper, we propose two fast PA based VR stochastic methods – APA-SVRG and APA-SAGA. By initializing the stepsize with a much larger value and adaptively decreasing it, both of the proposed methods are proved to enjoy the iteration complexity to achieve the accurate solutions, where m0 is the initial number of inner iterations and n is the number of samples. Moreover, experimental results demonstrate the superiority of the proposed algorithms."
 abstract_short = ""
 authors = ["Jingchang Liu", "Linli Xu", "**Junliang Guo**", "Xin Sheng"]
 date = "2019-01-27"
@@ -36,17 +17,10 @@ title = "Adaptive Proximal Average based Variance Reducing Stochastic Methods fo
 # url_slides = "#"
 # url_video = "#"
 
-<!-- [[url_custom]]
-name = "arXiv"
-url = "https://arxiv.org/abs/1806.02988"
-
-[[url_custom]]
-name = "Blog Post (Chinese)"
-url = "https://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&mid=2649443972&idx=1&sn=9c73d0e3afd003031905457fb3e33bc4&chksm=82c0a700b5b72e166ebd0884ec36a9ceaff9e5254c2c2b586e9f9b9ea4577a0337d1a5bde34f&scene=21#wechat_redirect" -->
 
 # Optional featured image (relative to `static/img/` folder).
-<!-- [header]
-image = "headers/bubbles-wide.jpg" -->
+#<!-- [header]
+#image = "headers/bubbles-wide.jpg" -->
 # caption = "My caption :smile:"
 
 +++
