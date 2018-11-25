@@ -27,7 +27,7 @@ weight = 1
   year = "Sept. 2016 - Jul. 2019 (Expected)"
 [[education.courses]]
   course = "University of Science and Technology of China"
-  institution = "B.S. in Computer Science"
+  institution = "B.E. in Computer Science"
   year = "Sept. 2012 - Jul. 2016"
  
 +++
