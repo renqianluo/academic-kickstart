@@ -14,7 +14,7 @@ url_code = "https://github.com/lemmonation/APNE"
 # url_dataset = "#"
 #url_pdf = "pdf/g2-lstm-icml18.pdf"
 # url_project = "project/deep-learning/"
-# url_slides = "#"
+url_slides = "pdf/[gjl]dasfaa_2018.pdf"
 # url_video = "#"
 
 [[url_custom]]
