@@ -82,10 +82,10 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "Junliang Guo's Home Page"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = ""
+  sharing_image = "[gjl]big.jpg"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   twitter = ""
