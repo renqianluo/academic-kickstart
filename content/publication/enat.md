@@ -7,14 +7,14 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "*Thirty-Third AAAI Conference on Artificial Intelligence  (AAAI 2019)*"
-publication_short = "*AAAI 2019 (to appear)*"
+publication_short = "*AAAI 2019*"
 selected = true
 title = "Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input"
 #url_code = "https://github.com/zhuohan123/g2-lstm"
 # url_dataset = "#"
 url_pdf = "pdf/ENAT_camera[gjl][AddRef].pdf"
 # url_project = "project/deep-learning/"
-# url_slides = "#"
+url_slides = "pdf/aaai19_pre.pdf"
 # url_video = "#"
 
 #<!-- [[url_custom]]
