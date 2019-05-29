@@ -1,13 +1,13 @@
 +++
 abstract = "Recent advances in the field of network embedding have shown that low-dimensional network representation is playing a critical role in network analysis. Most existing network embedding methods encode the local proximity of a node, such as the first- and secondorder proximities. While being efficient, these methods are short of leveraging the global structural information between nodes distant from each other. In addition, most existing methods learn embeddings on one single fixed network, and thus cannot be generalized to unseen nodes or networks without retraining. In this paper we present SPINE, a method that can jointly capture the local proximity and proximities at any distance, while being inductive to efficiently deal with unseen nodes or networks. Specifically, we identify the structural identity of each node based on a high-order proximity of the network named Rooted PageRank, followed by a novel biased Skip-Gram Negative Sampling algorithm and a carefully designed objective function to encode local proximities and global structural identities of nodes simultaneously. Extensive experimental results on benchmark datasets demonstrate the superiority of the proposed framework over the state of the art."
 abstract_short = ""
-authors = ["**Junliang Guo**", "Linli Xu", "Enhong Chen"]
-date = "2018-09-01"
+authors = ["**Junliang Guo**", "Linli Xu", "Jingchang Liu"]
+date = "2019-05-01"
 image_preview = ""
 math = true
 publication_types = ["0"]
-publication = "*Preprint*"
-publication_short = "*Preprint*"
+publication = "*IJCAI 2019*"
+publication_short = "*IJCAI 2019*"
 selected = true
 title = "SPINE: Structural Identity Preserved Inductive Network Embedding"
 url_code = "https://github.com/lemmonation/spine"
