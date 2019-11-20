@@ -4,7 +4,7 @@
 date = "2016-04-20T00:00:00"
 active = true
 
-title = "Awards"
+title = "Awards and Service"
 subtitle = ""
 widget = "custom"
 
@@ -19,9 +19,16 @@ detailed_list = false
 
 +++
 
+**Awards**
+
+- GuoRui Scholarship (TOP 5%), 2019
 - Award of Excellence in MSRA Star of Tomorrow Internship Program, 2018
 - Shenzhen Stock Exchange Scholarship (TOP 5%), 2018
 - Global Digital Creations Scholarship (TOP 20%), 2018
 - Excellent Graduation Thesis of USTC (TOP 5%), 2016
 - Outstanding Student Scholarship, Silver (TOP 15%), 2014
 - Outstanding Student Scholarship, Bronze (TOP 30%), 2013
+
+**Service**
+
+- Reviewer: AAAI 2020, ECAI 2020
