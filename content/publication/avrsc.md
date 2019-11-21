@@ -12,14 +12,14 @@ selected = true
 title = "Asynchronous Stochastic Composition Optimization with Variance Reduction"
 #url_code = "https://github.com/lemmonation/spine"
 # url_dataset = "#"
-#url_pdf = "pdf/g2-lstm-icml18.pdf"
+url_pdf = "https://arxiv.org/abs/1811.06396""
 # url_project = "project/deep-learning/"
 # url_slides = "#"
 # url_video = "#"
 
-[[url_custom]]
-name = "arXiv"
-url = "https://arxiv.org/abs/1811.06396"
+#[[url_custom]]
+#name = "arXiv"
+#url = "https://arxiv.org/abs/1811.06396"
 
 # Optional featured image (relative to `static/img/` folder).
 #<!-- [header]

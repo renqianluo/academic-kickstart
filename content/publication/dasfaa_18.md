@@ -12,14 +12,14 @@ selected = true
 title = "Enhancing Network Embedding with Auxiliary Information: An Explicit Matrix Factorization Perspective"
 url_code = "https://github.com/lemmonation/APNE"
 # url_dataset = "#"
-#url_pdf = "pdf/g2-lstm-icml18.pdf"
+url_pdf = "https://arxiv.org/abs/1711.04094"
 # url_project = "project/deep-learning/"
 url_slides = "pdf/[gjl]dasfaa_2018.pdf"
 # url_video = "#"
 
-[[url_custom]]
-name = "arXiv"
-url = "https://arxiv.org/abs/1711.04094"
+#[[url_custom]]
+#name = "arXiv"
+#url = "https://arxiv.org/abs/1711.04094"
 
 # Optional featured image (relative to `static/img/` folder).
 #<!-- [header]
