@@ -21,7 +21,7 @@ detailed_list = false
 
 **Awards**
 
-- GuoRui Scholarship (TOP 5%), 2019
+- Guorui Scholarship (TOP 5%), 2019
 - Award of Excellence in MSRA Star of Tomorrow Internship Program, 2018
 - Shenzhen Stock Exchange Scholarship (TOP 5%), 2018
 - Global Digital Creations Scholarship (TOP 20%), 2018
