@@ -26,8 +26,6 @@ detailed_list = false
 - Shenzhen Stock Exchange Scholarship (TOP 5%), 2018
 - Global Digital Creations Scholarship (TOP 20%), 2018
 - Excellent Graduation Thesis of USTC (TOP 5%), 2016
-- Outstanding Student Scholarship, Silver (TOP 15%), 2014
-- Outstanding Student Scholarship, Bronze (TOP 30%), 2013
 
 **Service**
 
