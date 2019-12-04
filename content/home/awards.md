@@ -29,4 +29,4 @@ detailed_list = false
 
 **Service**
 
-- Reviewer: AAAI 2020, ECAI 2020
+- Reviewer: AAAI 2020, ECAI 2020, IJCAI 2020
